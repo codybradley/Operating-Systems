@@ -1,0 +1,2 @@
+This text should be copied
+to the output file :)
